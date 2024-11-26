@@ -1,0 +1,9 @@
+.navbar-custom {
+    background-color: black;
+  }
+
+  .navbar-custom .navbar-toggler-icon,
+  .navbar-custom .navbar-nav .nav-link {
+    color: white;
+  }
+  
